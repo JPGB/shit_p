@@ -1,0 +1,3 @@
+export class RealtimeTransferProtocol {
+  constructor() {}
+}
